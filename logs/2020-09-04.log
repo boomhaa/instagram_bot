@@ -1,0 +1,152 @@
+21:27:33: Status: bot started
+21:27:37: 
+Version: 1.02
+21:27:37: Status: bot started
+21:27:40: 
+Version: 1.02
+21:27:40: Status: bot started
+21:27:44: 
+Version: 1.02
+21:27:44: Status: bot started
+21:27:47: 
+Version: 1.02
+21:27:47: Status: bot started
+21:28:40: 
+Version: 1.02
+21:28:40: Status: bot started
+21:28:14: Status: writing login
+21:28:15: Status: writing password
+21:28:15: 
+Version: 1.02
+21:28:15: Status: bot started
+21:28:25: Status: writing login
+21:28:26: Status: writing password
+21:28:26: 
+Version: 1.02
+21:28:26: Status: bot started
+21:28:45: Status: writing login
+21:28:45: Status: writing password
+21:28:46: 
+Version: 1.02
+21:28:46: Status: bot started
+21:29:00: Status: writing login
+21:29:10: Status: writing password
+21:29:10: 
+Version: 1.02
+21:29:10: Status: bot started
+21:29:16: Status: writing login
+21:29:16: Status: writing password
+21:30:29: 
+Version: 1.02
+21:30:29: Status: bot started
+21:30:43: Status: writing login
+21:30:43: Status: writing password
+21:31:15: Status: open publication
+21:31:17: Status: following
+21:31:17: Status: pause 15 sec between following and like
+21:31:32: ERROR: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[4]/div[2]/div/article/div[2]/section[1]/span[1]/button"}
+  (Session info: chrome=85.0.4183.83)
+
+21:31:32: Status: transition to the next post
+21:31:32: Status: pause 21 sec between transition and subscribing
+21:31:53: Status: following
+21:31:53: Status: pause 15 sec between following and like
+21:32:80: ERROR: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[4]/div[2]/div/article/div[2]/section[1]/span[1]/button"}
+  (Session info: chrome=85.0.4183.83)
+
+21:32:80: Status: transition to the next post
+21:32:90: Status: pause 25 sec between transition and subscribing
+21:32:34: Status: following
+21:32:34: Status: pause 15 sec between following and like
+21:32:49: ERROR: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[4]/div[2]/div/article/div[2]/section[1]/span[1]/button"}
+  (Session info: chrome=85.0.4183.83)
+
+21:32:49: Status: transition to the next post
+21:32:49: Status: pause 23 sec between transition and subscribing
+21:33:30: 
+Version: 1.02
+21:33:30: Status: bot started
+21:33:21: Status: writing login
+21:33:21: Status: writing password
+21:35:80: Status: open publication
+21:35:10: Status: error: already subscribed
+21:35:10: Status: make a like
+21:35:10: Status: transition to the next post
+21:35:10: Status: pause 25 sec between transition and subscribing
+21:36:00: Status: error: already subscribed
+21:36:00: Status: make a like
+21:36:10: Status: transition to the next post
+21:36:10: Status: pause 22 sec between transition and subscribing
+21:36:45: Status: error: already subscribed
+21:36:45: Status: make a like
+21:36:45: Status: transition to the next post
+21:36:45: Status: pause 30 sec between transition and subscribing
+21:37:45: Status: error: already subscribed
+21:37:45: Status: make a like
+21:37:45: Status: transition to the next post
+21:37:46: Status: pause 28 sec between transition and subscribing
+21:38:42: Status: following
+21:38:42: Status: pause 15 sec between following and like
+21:38:57: Status: make a like
+21:38:57: Status: transition to the next post
+21:38:57: Status: pause 22 sec between transition and subscribing
+21:39:41: Status: following
+21:39:41: Status: pause 15 sec between following and like
+21:39:56: Status: make a like
+21:39:56: Status: transition to the next post
+21:39:57: Status: pause 21 sec between transition and subscribing
+21:40:39: Status: following
+21:40:39: Status: pause 15 sec between following and like
+21:40:54: Status: make a like
+21:40:54: Status: transition to the next post
+21:40:54: Status: pause 26 sec between transition and subscribing
+21:41:46: Status: following
+21:41:47: Status: pause 15 sec between following and like
+21:42:20: Status: make a like
+21:42:20: Status: transition to the next post
+21:42:20: Status: pause 20 sec between transition and subscribing
+21:42:42: Status: following
+21:42:42: Status: pause 15 sec between following and like
+21:42:57: Status: make a like
+21:42:57: Status: transition to the next post
+21:42:57: Status: pause 25 sec between transition and subscribing
+21:43:48: Status: following
+21:43:48: Status: pause 15 sec between following and like
+21:44:30: Status: make a like
+21:44:30: Status: transition to the next post
+21:44:30: Status: pause 22 sec between transition and subscribing
+21:44:47: Status: following
+21:44:47: Status: pause 15 sec between following and like
+21:45:20: Status: make a like
+21:45:20: Status: pause 26 sec between like and comment
+21:45:28: ERROR: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[4]/div[2]/div/article/div[2]/section[1]/span[2]/button"}
+  (Session info: chrome=85.0.4183.83)
+
+21:45:28: Status: transition to the next post
+21:45:29: Status: pause 26 sec between transition and subscribing
+21:45:55: Status: following
+21:45:55: Status: pause 15 sec between following and like
+21:46:10: Status: make a like
+21:46:10: Status: transition to the next post
+21:46:10: Status: pause 29 sec between transition and subscribing
+21:47:80: Status: following
+21:47:80: Status: pause 15 sec between following and like
+21:47:23: Status: make a like
+21:47:23: Status: transition to the next post
+21:47:24: Status: pause 27 sec between transition and subscribing
+21:48:18: Status: following
+21:48:18: Status: pause 15 sec between following and like
+21:48:33: Status: make a like
+21:48:33: Status: pause 26 sec between like and comment
+21:48:59: ERROR: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[4]/div[2]/div/article/div[2]/section[1]/span[2]/button"}
+  (Session info: chrome=85.0.4183.83)
+
+21:48:59: Status: transition to the next post
+21:48:59: Status: pause 22 sec between transition and subscribing
+21:49:21: Status: following
+21:49:22: Status: pause 15 sec between following and like
+21:49:37: Status: make a like
+21:49:37: Status: pause 30 sec between like and comment
+21:49:52: 
+Version: 1.02
+21:49:52: Status: bot started
